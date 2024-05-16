@@ -57,6 +57,8 @@ map <leader>g  :YcmCompleter GoToDefinitionElseDeclaration<CR>
 Plugin 'vim-syntastic/syntastic'
 
 Plugin 'jnurmine/Zenburn'
+
+Plugin 'scrooloose/nerdtree'
 " ...
 
 " All of your Plugins must be added before the following line
